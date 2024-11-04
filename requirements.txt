@@ -1,0 +1,8 @@
+praw
+vaderSentiment
+nltk
+contractions
+emoji
+spacy
+pandas
+matplotlib
